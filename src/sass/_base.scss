@@ -1,0 +1,10 @@
+/* Reset styles */
+*, 
+*::before, 
+*::after {
+    box-sizing: border-box;
+}
+
+.page-heading{
+    margin-top: 20px;
+}
